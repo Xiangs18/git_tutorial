@@ -1,0 +1,10 @@
+Pandas
+Numpy
+Requests
+Scrapy
+wxPython
+Pillow
+matplotlib
+nltk
+Ipython
+SciPy
