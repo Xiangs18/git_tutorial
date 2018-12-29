@@ -1,5 +1,5 @@
-111
-bug code needs fix
-I am doing some devlopment!
+131, this is a new development!
+bug code needs fix, and it seems I have fixed it. 
+I am doing some devlopment! This is beautiful!
 
-Life is beautiful!
+Life is beautiful, but not always!
